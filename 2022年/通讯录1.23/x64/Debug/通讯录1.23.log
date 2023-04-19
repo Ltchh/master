@@ -1,0 +1,4 @@
+﻿  contact.c
+  test.c
+C:\Users\lifet\source\repos\通讯录1.23\test.c(40,19): error C2233: “data”: 包含大小为零的数组的对象数组是非法的
+  正在生成代码...

@@ -1,0 +1,7 @@
+﻿  trst.c
+C:\Users\lifet\source\repos\12.19旋转字符串与旋转字符串比较\trst.c(44,19): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+C:\Users\lifet\source\repos\12.19旋转字符串与旋转字符串比较\trst.c(44,16): warning C4024: “strcmp”: 形参和实参 1 的类型不同
+C:\Users\lifet\source\repos\12.19旋转字符串与旋转字符串比较\trst.c(44,26): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+C:\Users\lifet\source\repos\12.19旋转字符串与旋转字符串比较\trst.c(44,21): warning C4024: “strcmp”: 形参和实参 2 的类型不同
+C:\Users\lifet\source\repos\12.19旋转字符串与旋转字符串比较\trst.c(56,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  12.19旋转字符串与旋转字符串比较.vcxproj -> C:\Users\lifet\source\repos\12.19旋转字符串与旋转字符串比较\x64\Debug\12.19旋转字符串与旋转字符串比较.exe

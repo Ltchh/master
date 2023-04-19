@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(23.0212-通讯录存储版.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  contact.c
+E:\Vsc\2023年\23.02.12-通讯录存储版\contact.h(1,1): warning C4828: 文件包含在偏移 0x3ea 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  tast.c
+E:\Vsc\2023年\23.02.12-通讯录存储版\contact.h(1,1): warning C4828: 文件包含在偏移 0x3ea 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  23.0212-通讯录存储版.vcxproj -> E:\Vsc\2023年\23.02.12-通讯录存储版\x64\Debug\23.02.12-通讯录存储版.exe

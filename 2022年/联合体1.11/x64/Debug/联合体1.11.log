@@ -1,0 +1,7 @@
+﻿  test.c
+C:\Users\lifet\source\repos\联合体1.11\test.c(27,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\lifet\source\repos\联合体1.11\test.c(27,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\lifet\source\repos\联合体1.11\test.c(29,14): warning C4133: “函数”: 从“char *”到“un *”的类型不兼容
+C:\Users\lifet\source\repos\联合体1.11\test.c(30,14): warning C4133: “函数”: 从“int *”到“un *”的类型不兼容
+C:\Users\lifet\source\repos\联合体1.11\test.c(24,11): warning C4101: “u1”: 未引用的局部变量
+  联合体1.11.vcxproj -> C:\Users\lifet\source\repos\联合体1.11\x64\Debug\联合体1.11.exe

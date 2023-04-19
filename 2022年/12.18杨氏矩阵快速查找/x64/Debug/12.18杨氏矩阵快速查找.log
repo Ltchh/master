@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\lifet\source\repos\12.18杨氏矩阵快速查找\test.c(32,26): warning C4048: “int (*)[10]”和“int [3][5]”数组的下标不同
+  12.18杨氏矩阵快速查找.vcxproj -> C:\Users\lifet\source\repos\12.18杨氏矩阵快速查找\x64\Debug\12.18杨氏矩阵快速查找.exe

@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\lifet\source\repos\12.15模仿qsorth排序写一个函数\test.c(68,64): warning C4098: “comper_test_2_age”:“void”函数返回值
+C:\Users\lifet\source\repos\12.15模仿qsorth排序写一个函数\test.c(74,55): warning C4133: “函数”: 从“void (__cdecl *)(const void *,const void *)”到“int (__cdecl *)(const void *,const void *)”的类型不兼容
+C:\Users\lifet\source\repos\12.15模仿qsorth排序写一个函数\test.c(29): warning C4716: “short_sort”: 必须返回一个值
+  12.15模仿qsorth排序写一个函数.vcxproj -> C:\Users\lifet\source\repos\12.15模仿qsorth排序写一个函数\x64\Debug\12.15模仿qsorth排序写一个函数.exe

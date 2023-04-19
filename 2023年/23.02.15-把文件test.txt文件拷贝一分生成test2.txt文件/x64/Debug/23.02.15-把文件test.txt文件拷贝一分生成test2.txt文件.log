@@ -1,0 +1,5 @@
+﻿  test.c
+E:\Vsc\2023年\23.02.15-把文件test.txt文件拷贝一分生成test2.txt文件\test.c(26,6): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+E:\Vsc\2023年\23.02.15-把文件test.txt文件拷贝一分生成test2.txt文件\test.c(57,13): warning C4020: “fclose”: 实参太多
+E:\Vsc\2023年\23.02.15-把文件test.txt文件拷贝一分生成test2.txt文件\test.c(59,5): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  23.02.15-把文件test.txt文件拷贝一分生成test2.txt文件.vcxproj -> E:\Vsc\2023年\23.02.15-把文件test.txt文件拷贝一分生成test2.txt文件\x64\Debug\23.02.15-把文件test.txt文件拷贝一分生成test2.txt文件.exe

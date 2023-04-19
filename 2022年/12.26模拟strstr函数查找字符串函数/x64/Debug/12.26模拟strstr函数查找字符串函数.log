@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\lifet\source\repos\12.26模拟strstr函数查找字符串函数\test.c(19,13): warning C4090: “=”: 不同的“const”限定符
+C:\Users\lifet\source\repos\12.26模拟strstr函数查找字符串函数\test.c(13,8): warning C4090: “初始化”: 不同的“const”限定符
+  12.26模拟strstr函数查找字符串函数.vcxproj -> C:\Users\lifet\source\repos\12.26模拟strstr函数查找字符串函数\x64\Debug\12.26模拟strstr函数查找字符串函数.exe

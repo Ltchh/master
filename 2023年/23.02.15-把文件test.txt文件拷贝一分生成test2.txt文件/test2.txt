@@ -1,0 +1,28 @@
+#define  _CRT_SECURE_NO_WARNINGS
+
+#include<stdio.h>
+
+int main(){
+	FILE* pt = fopen("test.txt", "r");//打开文件
+	if (pt == NULL) {
+		perror("fopen");
+		return 1;
+	}
+
+	FILE* pf = fopen("test2.txt", "w");//打开文件
+	if (pf == NULL) {
+		fclose(pt);
+		pt == NULL;
+		return 1;
+	}
+
+	//打开成功
+
+	//读写文件
+
+
+	//关闭文件
+	fclose(pt, pf);
+	pt = NULL;
+	pf == NULL;
+	return 0;

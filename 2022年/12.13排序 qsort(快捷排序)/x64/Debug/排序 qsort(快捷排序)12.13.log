@@ -1,0 +1,13 @@
+﻿  test.c
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(57,5): error C2084: 函数“int main()”已有主体
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(23,5): message : 参见“main”的前一个定义
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(65,16): error C2011: “student”:“struct”类型重定义
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(37,8): message : 参见“student”的声明
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(72,41): error C2039: "name": 不是 "student" 的成员
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(37,8): message : 参见“student”的声明
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(72,70): error C2039: "name": 不是 "student" 的成员
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(37,8): message : 参见“student”的声明
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(72,11): error C2198: “strcmp”: 用于调用的参数太少
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(75,1): error C2371: “test”: 重定义；不同的基类型
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(47,6): message : 参见“test”的声明
+C:\Users\lifet\source\repos\12.13排序 qsort(快捷排序)\test.c(77,90): warning C4045: “arr”: 数组界限溢出

@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\lifet\source\repos\12.22模拟strcat函数\test.c(45,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  12.22模拟strcat函数.vcxproj -> C:\Users\lifet\source\repos\12.22模拟strcat函数\x64\Debug\12.22模拟strcat函数.exe

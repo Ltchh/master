@@ -1,0 +1,11 @@
+﻿  test.c
+E:\Vsc\2022年\通讯录1.23\test.c(207,17): warning C4090: “函数”: 不同的“const”限定符
+test.obj : error LNK2005: _addcontact 已经在 contact.obj 中定义
+test.obj : error LNK2005: _delcontact 已经在 contact.obj 中定义
+test.obj : error LNK2005: _initcontact 已经在 contact.obj 中定义
+test.obj : error LNK2005: _modfiycontact 已经在 contact.obj 中定义
+test.obj : error LNK2005: _print 已经在 contact.obj 中定义
+test.obj : error LNK2005: _printcontact 已经在 contact.obj 中定义
+test.obj : error LNK2005: _searchconcat 已经在 contact.obj 中定义
+test.obj : error LNK2005: _sortcontact 已经在 contact.obj 中定义
+E:\Vsc\2022年\通讯录1.23\Debug\通讯录1.23.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

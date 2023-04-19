@@ -1,0 +1,6 @@
+﻿  sales.c
+  test.c
+E:\Vsc\2023年\23.02.20-销售统计\test.c(23,3): warning C4013: “system”未定义；假设外部返回 int
+E:\Vsc\2023年\23.02.20-销售统计\test.c(19,10): warning C4101: “initsales”: 未引用的局部变量
+  正在生成代码...
+  23.02.20-销售统计.vcxproj -> E:\Vsc\2023年\23.02.20-销售统计\x64\Debug\23.02.20-销售统计.exe

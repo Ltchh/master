@@ -1,0 +1,9 @@
+﻿  test.c
+C:\Users\lifet\source\repos\12.5一维数组传参and二位数组传参\一维数组传参and二位数组传参12.5\test.c(14,6): error C2084: 函数“void test(int *)”已有主体
+C:\Users\lifet\source\repos\12.5一维数组传参and二位数组传参\一维数组传参and二位数组传参12.5\test.c(8,6): message : 参见“test”的前一个定义
+C:\Users\lifet\source\repos\12.5一维数组传参and二位数组传参\一维数组传参and二位数组传参12.5\test.c(32,6): error C2084: 函数“void test_2(int **)”已有主体
+C:\Users\lifet\source\repos\12.5一维数组传参and二位数组传参\一维数组传参and二位数组传参12.5\test.c(27,6): message : 参见“test_2”的前一个定义
+C:\Users\lifet\source\repos\12.5一维数组传参and二位数组传参\一维数组传参and二位数组传参12.5\test.c(61,6): error C2084: 函数“void test_1(int (*)[4])”已有主体
+C:\Users\lifet\source\repos\12.5一维数组传参and二位数组传参\一维数组传参and二位数组传参12.5\test.c(51,6): message : 参见“test_1”的前一个定义
+C:\Users\lifet\source\repos\12.5一维数组传参and二位数组传参\一维数组传参and二位数组传参12.5\test.c(81,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\lifet\source\repos\12.5一维数组传参and二位数组传参\一维数组传参and二位数组传参12.5\test.c(81,11): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突

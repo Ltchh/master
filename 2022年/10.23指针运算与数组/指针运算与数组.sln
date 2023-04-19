@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指针运算与数组", "指针运算与数组\指针运算与数组.vcxproj", "{A03B5A98-4DE5-4F8A-8CA8-7F5B3CD4B29A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03B5A98-4DE5-4F8A-8CA8-7F5B3CD4B29A}.Debug|x64.ActiveCfg = Debug|x64
+		{A03B5A98-4DE5-4F8A-8CA8-7F5B3CD4B29A}.Debug|x64.Build.0 = Debug|x64
+		{A03B5A98-4DE5-4F8A-8CA8-7F5B3CD4B29A}.Debug|x86.ActiveCfg = Debug|Win32
+		{A03B5A98-4DE5-4F8A-8CA8-7F5B3CD4B29A}.Debug|x86.Build.0 = Debug|Win32
+		{A03B5A98-4DE5-4F8A-8CA8-7F5B3CD4B29A}.Release|x64.ActiveCfg = Release|x64
+		{A03B5A98-4DE5-4F8A-8CA8-7F5B3CD4B29A}.Release|x64.Build.0 = Release|x64
+		{A03B5A98-4DE5-4F8A-8CA8-7F5B3CD4B29A}.Release|x86.ActiveCfg = Release|Win32
+		{A03B5A98-4DE5-4F8A-8CA8-7F5B3CD4B29A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8386DAF0-FEBA-4E82-A8E5-A72DD7FBEBFE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿  contacts.c
+E:\Vsc\2023年\23-03-23-链表通讯录\contacts.h(1,1): warning C4828: 文件包含在偏移 0x3af 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\Vsc\2023年\23-03-23-链表通讯录\contacts.c(13,3): warning C4033: “create_heap”必须返回值
+E:\Vsc\2023年\23-03-23-链表通讯录\contacts.c(17): warning C4715: “create_heap”: 不是所有的控件路径都返回值
+  23-03-23-链表通讯录.vcxproj -> E:\Vsc\2023年\23-03-23-链表通讯录\x64\Debug\23-03-23-链表通讯录.exe

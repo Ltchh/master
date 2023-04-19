@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\lifet\source\repos\三步翻转法11.1\三步翻转法11.1\test.c(31,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\lifet\source\repos\三步翻转法11.1\三步翻转法11.1\test.c(33,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  三步翻转法11.1.vcxproj -> C:\Users\lifet\source\repos\三步翻转法11.1\x64\Debug\三步翻转法11.1.exe

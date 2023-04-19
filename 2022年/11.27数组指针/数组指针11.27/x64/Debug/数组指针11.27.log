@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\lifet\source\repos\数组指针11.27\数组指针11.27\test.c(75,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\lifet\source\repos\数组指针11.27\数组指针11.27\test.c(75,6): warning C4101: “i”: 未引用的局部变量
+  数组指针11.27.vcxproj -> C:\Users\lifet\source\repos\数组指针11.27\x64\Debug\数组指针11.27.exe
